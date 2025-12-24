@@ -1,7 +1,7 @@
 yaml
         backend:
           name: github
-          repo: your-username/your-repo-name # 【待会儿再改】
+          repo: LUKAIJIA/my-hugo-blog # 【待会儿再改】
           branch: main
         media_folder: "static/images/uploads"
         public_folder: "/images/uploads"
